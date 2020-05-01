@@ -5,8 +5,7 @@
 ## --Nope--Close--Match--  ##
 ###########################
 
-# It's time to actually make a simple command line game so put together everything
-# you've learned so far about Python. The game goes like this:
+
 
  1. The computer will think of 3 digit number that has no repeating digits.
  2. You will then guess a 3 digit number
