@@ -13,7 +13,6 @@ print("1. The computer will think of 3 digit number that has no repeating digits
 def gen_code():
     digits = list(range(10))
     random.shuffle(digits)
-    #print(digits[3:6])
     return (digits[3:6])
 
 def number_check(com_code):
